@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "D:/go/hugo_0.147.7/LoveItDemo",
+	"sourceRoot": "D:/go/hugo_0.145.0/LoveItDemo",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/lib/normalize/normalize.css",

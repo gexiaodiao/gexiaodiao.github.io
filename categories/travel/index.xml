@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Steal of the Day</title>
-        <link>https://gexiaodiao.github.io/</link>
-        <description>Welcome to Steal of the Day—your curated guide to living luxuriously without the luxury price tag. Each week, we scour the globe (and the web!) to bring you handpicked steals across travel, fashion, software, learning resources, and beyond. Whether it’s a hidden-gem destination, a chic budget-friendly outfit, a game-changing app, or a skill-boosting course, we’re here to prove that style, quality, and adventure don’t have to cost a fortune. Join savvy shoppers and smart savers who trust us to deliver affordable finds with luxury results. Upgrade your lifestyle—not your spending.</description>
+        <title>travel - Category - Steal of the Day</title>
+        <link>https://gexiaodiao.github.io/categories/travel/</link>
+        <description>travel - Category - Steal of the Day</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dongfengpiaoling@gmail.com (d)</managingEditor>
-            <webMaster>dongfengpiaoling@gmail.com (d)</webMaster><copyright>© 2019-2025</copyright><lastBuildDate>Fri, 13 Jun 2025 10:29:59 &#43;0800</lastBuildDate>
-            <atom:link href="https://gexiaodiao.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>dongfengpiaoling@gmail.com (d)</webMaster><copyright>© 2019-2025</copyright><lastBuildDate>Fri, 13 Jun 2025 10:29:59 &#43;0800</lastBuildDate><atom:link href="https://gexiaodiao.github.io/categories/travel/" rel="self" type="application/rss+xml" /><item>
     <title>San Diego Travel Guide</title>
     <link>https://gexiaodiao.github.io/2-san-diego-travel-guide_-eat-stay-and-get-around-like-a-pro/</link>
     <pubDate>Fri, 13 Jun 2025 10:29:59 &#43;0800</pubDate>
