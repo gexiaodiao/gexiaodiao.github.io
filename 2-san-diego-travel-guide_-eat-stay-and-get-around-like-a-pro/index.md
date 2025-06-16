@@ -7,6 +7,7 @@
 
 Hey there, fellow travelers! 🌴 San Diego, with its year - round sunshine, stunning beaches, and vibrant culture, is truly a paradise for tourists. Whether you're a foodie, a beach bum, or an adventure seeker, this city has something for everyone. Let's dive into the ultimate guide on eating, staying, and getting around in San Diego!
 
+<!--more-->
 
 🍔 Eat in San Diego
 

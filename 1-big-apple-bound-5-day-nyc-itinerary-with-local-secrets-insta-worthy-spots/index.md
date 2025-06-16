@@ -6,6 +6,9 @@
 
 Hey travel lovers! 🌟 Planning your first trip to the concrete jungle? As a born-and-raised New Yorker, I’m spilling all the insider tips to make your NYC adventure unforgettable. From iconic landmarks to hidden gems, here’s your ultimate guide to exploring the city that never sleeps!
 
+<!--more-->
+
+![NewYork](2.jpg "NewYork")
 
 ### 🗓️ **Day 1: Manhattan Must-See’s**
 
@@ -139,8 +142,6 @@ Catch a free concert at **Central Park SummerStage** 🎶 or enjoy a comedy show
 
 New York City is a whirlwind of energy, culture, and endless possibilities. Whether you’re chasing Broadway dreams, snapping Insta-worthy shots, or indulging in iconic eats, this guide will help you make the most of your trip. Tag me @nyc\_insider with your adventures – I can’t wait to see your Big Apple memories! 🗽💫
 
-
-*#NewYorkCity #TravelGuide #BigAppleAdventures #TravelTips #VisitNYC*
 
 *Need more deets? DM me for custom itineraries!* 😊
 
