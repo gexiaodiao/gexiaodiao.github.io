@@ -4,7 +4,15 @@
         <link>http://localhost:1313/categories/</link>
         <description>Categories - Category - Steal of the Day</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dongfengpiaoling@gmail.com (d)</managingEditor>
-            <webMaster>dongfengpiaoling@gmail.com (d)</webMaster><copyright>© 2019-2025</copyright><lastBuildDate>Mon, 16 Jun 2025 11:40:32 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dongfengpiaoling@gmail.com (d)</webMaster><copyright>© 2019-2025</copyright><lastBuildDate>Tue, 17 Jun 2025 14:19:32 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Fashion Brand</title>
+    <link>http://localhost:1313/categories/fashion-brand/</link>
+    <pubDate>Tue, 17 Jun 2025 14:19:32 &#43;0800</pubDate>
+    <author>d</author>
+    <guid>http://localhost:1313/categories/fashion-brand/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Digital Product</title>
     <link>http://localhost:1313/categories/digital-product/</link>
     <pubDate>Mon, 16 Jun 2025 11:40:32 &#43;0800</pubDate>
